@@ -30,6 +30,12 @@ If just want to check the code that matters, simply go to [modal.js](https://git
         };
     }]);
 
+## Tasks
+
+To run the app, simply:
+
+    npm start
+
 #### Disclaimer
 
 This is a mini-project intended only as an example of the modal pattern. This project lacks of structure and good practices, it is not either a complete implementation of a modal manager component.
