@@ -38,4 +38,4 @@ To run the app, simply:
 
 #### Disclaimer
 
-This is a mini-project intended only as an example of the modal pattern. This project lacks of structure and good practices, it is not either a complete implementation of a modal manager component.
+This is a mini-project intended only as an example of the modal pattern. This project lacks of structure and good practices, it is not either a complete implementation of a modal component.

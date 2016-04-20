@@ -14,5 +14,9 @@
   },
   "devDependencies": {
     "lite-server": "^2.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/roncr/ng1-patterns-modal.git"
   }
 }
